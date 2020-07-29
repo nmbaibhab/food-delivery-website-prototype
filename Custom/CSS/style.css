@@ -3,7 +3,7 @@
     background-color: rgba(234, 28, 28, 0.815);
     border: 2px solid rgba(86, 224, 15, 0.88);
     border-radius: 5px;
-    flex-wrap: wrap;
+    /* flex-wrap: wrap; */
 }
 #logo{
     display: inline-block;
